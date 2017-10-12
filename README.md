@@ -6,7 +6,7 @@
 
 预览图：
 
-![](http://ww1.sinaimg.cn/large/647b8589gy1fe421a1rffj20ar0aot9a.jpg)
+![](https://ww1.sinaimg.cn/large/647b8589gy1fe421a1rffj20ar0aot9a.jpg)
 
 其作用是自动从公共接口获取天气信息和随机名言、从腾讯新闻获取最新的5条（可设置）新闻标题及链接，并调用钉钉的机器人接口发送到公司群，markdown格式可点击，比纯文本高到不知哪里去了
 
