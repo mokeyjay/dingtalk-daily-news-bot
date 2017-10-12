@@ -8,6 +8,8 @@
 
 ![](https://ws1.sinaimg.cn/large/647b8589gy1fkf8m67ajfj20ar0aot9a.jpg)
 
+这该死的[预览图](https://ws1.sinaimg.cn/large/647b8589gy1fkf8m67ajfj20ar0aot9a.jpg)咋就是显示不出来呢，啥毛病？
+
 其作用是自动从公共接口获取天气信息和随机名言、从腾讯新闻获取最新的5条（可设置）新闻标题及链接，并调用钉钉的机器人接口发送到公司群，markdown格式可点击，比纯文本高到不知哪里去了
 
 代码很简单，注释也不少。后期可能会不定期加些功能
